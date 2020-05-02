@@ -6,13 +6,13 @@ Parcel plugin for SVGR. Forked from <a href="https://github.com/gregberge/svgr/t
 npm install parcel-plugin-svg-react
 ```
 
-## The differences
+## The Differences
 
 - `.svgr` extension for React imports
 - `.svg` extension for path imports
 - Allows CSS imports
 
-## React imports
+## React Imports
 
 Allows to import SVG files as React components. The extension should be `.svgr`, not `.svg`!
 

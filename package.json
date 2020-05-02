@@ -1,9 +1,9 @@
 {
-  "name": "parcel-plugin-svgr-2",
-  "description": "SVG/SVGR Parcel plugin v2",
+  "name": "parcel-plugin-svg-react",
+  "description": "Import SVG as React components (Parcel plugin)",
   "version": "1.0.0",
   "main": "lib/index.js",
-  "repository": "https://github.com/xpl/svgr/tree/master/packages/parcel-plugin-svgr-2",
+  "repository": "https://github.com/xpl/parcel-plugin-svg-react",
   "author": "Mario Pabon <me@mariopabon.com>, Vit Gordon <rocket.mind@gmail.com>",
   "publishConfig": {
     "access": "public"

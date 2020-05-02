@@ -33,7 +33,9 @@ Allows to import `.svg` files as paths (the usual Parcel behavior):
 ```jsx
 import star from './star.svg'
 
-const Star = () => <div style={{ backgroundImage: star }}></div>
+const Star = () => (
+  <div style={{ backgroundImage: `url(${ star })` }}></div>
+)
 ```
 
 ## CSS Imports

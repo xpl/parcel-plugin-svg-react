@@ -1,6 +1,6 @@
 # parcel-plugin-svgr-2
 
-Parcel plugin for SVGR. Forked from **@svgr/parcel-plugin-svgr**.
+Parcel plugin for SVGR. Forked from <a href="https://github.com/gregberge/svgr/tree/master/packages/parcel-plugin-svgr">**@svgr/parcel-plugin-svgr**</a>.
 
 ```
 npm install parcel-plugin-svgr-2

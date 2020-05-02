@@ -16,7 +16,7 @@ npm install parcel-plugin-svg-react
 
 Allows to import SVG files as React components. The extension should be `.svgr`, not `.svg`!
 
-```javascript
+```jsx
 import Star from './star.svgr'
 
 const App = () => (
@@ -30,7 +30,7 @@ const App = () => (
 
 Allows to import `.svg` files as paths (the usual Parcel behavior):
 
-```javascript
+```jsx
 import star from './star.svg`
 
 const Star = () => <div style={{ backgroundImage: star }}></div>

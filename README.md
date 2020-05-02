@@ -45,7 +45,3 @@ div {
   background-image: url(./star.svg);
 }
 ```
-
-## License
-
-MIT

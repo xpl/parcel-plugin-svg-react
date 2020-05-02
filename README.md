@@ -31,7 +31,7 @@ const App = () => (
 Allows to import `.svg` files as paths (the usual Parcel behavior):
 
 ```jsx
-import star from './star.svg`
+import star from './star.svg'
 
 const Star = () => <div style={{ backgroundImage: star }}></div>
 ```
